@@ -1,0 +1,48 @@
+[
+  {
+    "id": "0",
+    "icon": "icon-A-A3",
+    "name": "标签管理",
+    "pid": "0",
+    "children": [
+      {
+        "id": "0-1",
+        "icon": "",
+        "name": "标签管理",
+        "disabled": true,
+        "pid": "0"
+      },
+      {
+        "id": "0-2",
+        "icon": "",
+        "path": "/visitorLabel",
+        "name": "访客标签",
+        "pid": "0"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "icon": "icon-A-A4",
+    "name": "评论管理",
+    "pid": "0",
+    "children": [
+      {
+        "id": "1-1",
+        "icon": "",
+        "name": "抖音评论",
+        "disabled": true,
+        "pid": "1"
+      },
+      {
+        "id": "1-2",
+        "icon": "",
+        "path": "/douyin",
+        "name": "抖音评论",
+        "pid": "1"
+      }
+    ]
+  }
+
+
+]

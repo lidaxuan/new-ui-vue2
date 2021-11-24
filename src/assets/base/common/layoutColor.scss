@@ -1,0 +1,59 @@
+ .el-switch.is-checked .el-switch__core,
+ .el-checkbox__input.is-checked .el-checkbox__inner,
+ .el-button--primary,
+ .el-radio__input.is-checked .el-radio__inner,
+ .el-checkbox__input.is-indeterminate .el-checkbox__inner
+ {
+    border: 1px solid var(--layoutMain-6359CA);
+    background-color: var(--layoutMain-6359CA);
+}
+ //$baseColor: var(--layoutMain-6359CA) ;
+ //lighten($baseColor,10%);
+ .el-button--primary:active,
+ .el-button--primary:focus,
+ .el-button--primary:hover{
+     border: 1px solid var(--layoutMain-6359CA);
+     background: var(--layoutMain-6359CA);
+ }
+.el-pagination.is-background .el-pager li:not(.disabled).active,
+.el-tabs__active-bar{
+    background-color: var(--layoutMain-6359CA);
+}
+.el-tabs__item.is-active,
+.el-checkbox__input.is-checked + .el-checkbox__label,
+.el-radio__input.is-checked + .el-radio__label,
+.el-button--text:active,
+.el-button--text:hover, .el-button--text:focus,
+.el-button--text{
+    color: var(--layoutMain-6359CA);
+}
+ .el-textarea__inner:focus,
+ .el-select .el-input.is-focus .el-input__inner,
+ .el-select .el-input__inner:focus,
+ .el-input .el-input__inner:focus
+ {
+     border-color: var(--layoutMain-6359CA);
+ }
+
+ .el-button.is-plain:hover, .el-button.is-plain:focus{
+     border-color: var(--layoutMain-6359CA);
+     color: var(--layoutMain-6359CA);
+ }
+
+
+
+
+
+
+
+
+ .e-button-n--type-primary,
+ .e-button-n--type-oper,
+ {
+     border: 1px solid var(--layoutMain-6359CA)!important;
+     background-color: var(--layoutMain-6359CA)!important;
+ }
+ .e-button-n--type-text-p,
+ .e-button-n--type-text-d:hover{
+     color: var(--layoutMain-6359CA)!important;
+ }

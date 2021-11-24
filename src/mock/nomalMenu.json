@@ -1,0 +1,252 @@
+[
+  {
+    "id": "0",
+    "icon": "icon-A-A3",
+    "name": "文章管理",
+    "pid": "0",
+    "children": [
+      {
+        "id": "0-1",
+        "icon": "",
+        "name": "文章管理",
+        "disabled": true,
+        "pid": "0"
+      },
+      {
+        "id": "0-2",
+        "icon": "",
+        "path": "/visitorLabel",
+        "name": "文章分类",
+        "pid": "0",
+        "children": [
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "VUE",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-2",
+            "icon": "",
+            "name": "Echarts",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-3",
+            "icon": "",
+            "name": "VITE",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-4",
+            "icon": "",
+            "name": "REACT",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-5",
+            "icon": "",
+            "name": "TYPESCRIPT",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-6",
+            "icon": "",
+            "name": "电脑程序",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-7",
+            "icon": "",
+            "name": "NPM",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "NGINX",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "微信",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "MPVUE",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "IDEA",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "JAVESCRIPT",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "PYTHON",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "GIT",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "CSS",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "GULP",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "HTML",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "WEBPACK",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "项目研发",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "VSCODE",
+            "pid": "0-2"
+          }
+        ]
+      },
+      {
+        "id": "0-3",
+        "icon": "",
+        "path": "/visitorLabel",
+        "name": "规范",
+        "pid": "0",
+        "children": [
+          {
+            "id": "0-2-1",
+            "icon": "",
+            "name": "Javascript",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-2",
+            "icon": "",
+            "name": "css",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-3",
+            "icon": "",
+            "name": "Eslint",
+            "pid": "0-2"
+          },
+          {
+            "id": "0-2-4",
+            "icon": "",
+            "name": "git",
+            "pid": "0-2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "icon": "icon-A-A4",
+    "name": "功能实现",
+    "pid": "0",
+    "children": [
+      {
+        "id": "1-1",
+        "icon": "",
+        "name": "typescript",
+        "disabled": true,
+        "pid": "1",
+        "children":[
+          {
+            "id": "1-2",
+            "icon": "",
+            "path": "/douyin",
+            "name": "类型",
+            "pid": "1"
+          },
+          {
+            "id": "1-2",
+            "icon": "",
+            "path": "/douyin",
+            "name": "接口",
+            "pid": "1"
+          },
+          {
+            "id": "1-2",
+            "icon": "",
+            "path": "/douyin",
+            "name": "类",
+            "pid": "1"
+          },
+          {
+            "id": "1-2",
+            "icon": "",
+            "path": "/douyin",
+            "name": "泛型",
+            "pid": "1"
+          }
+        ]
+      },
+      {
+        "id": "1-2",
+        "icon": "",
+        "path": "/douyin",
+        "name": "scss",
+        "pid": "1"
+      },
+      {
+        "id": "1-2",
+        "icon": "",
+        "path": "/douyin",
+        "name": "v-model实现",
+        "pid": "1"
+      },
+      {
+        "id": "1-2",
+        "icon": "",
+        "path": "/douyin",
+        "name": "vue继承",
+        "pid": "1"
+      },
+      {
+        "id": "1-2",
+        "icon": "",
+        "path": "/douyin",
+        "name": "sync",
+        "pid": "1"
+      }
+    ]
+  }
+]
